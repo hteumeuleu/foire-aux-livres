@@ -26,4 +26,8 @@ Merci d'être raisonnable et de ne demander qu'un seul titre. (Les _pull request
 - [ ] [CSS3 pour les web designers (2e édition)](https://www.eyrolles.com/Informatique/Livre/css3-pour-les-web-designers-9782212117653/) de Dan Cederholm
 - [ ] [Stratégie de contenu et conception web](https://www.editions-eni.fr/livre/strategie-de-contenu-et-conception-web-les-etapes-a-suivre-pour-bien-demarrer-9782746080331) de Sébastien Desbenoit
 
+Sans rapport, je me débarrasse aussi de :
+
+- [ ] [14 numéros de _The New Yorker_ (2016)](https://i.imgur.com/Yg8wjen.jpg)
+
 Cette liste pourra être amenée à être complétée. Je le signalerais alors sur [mon compte Twitter](https://www.twitter.com/HTeuMeuLeu).
