@@ -24,7 +24,7 @@ Merci d'être raisonnable et de ne demander qu'un seul titre. (Les _pull request
 - [ ] [Design tactile](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/) de Josh Clark
 - [ ] [Responsive Design Patterns](https://www.eyrolles.com/Informatique/Livre/responsive-design-patterns-9782212117660/) de Ethan Marcotte
 - [ ] [CSS3 pour les web designers (2e édition)](https://www.eyrolles.com/Informatique/Livre/css3-pour-les-web-designers-9782212117653/) de Dan Cederholm
-- [ ] [Stratégie de contenu et conception web](https://www.editions-eni.fr/livre/strategie-de-contenu-et-conception-web-les-etapes-a-suivre-pour-bien-demarrer-9782746080331) de Sébastien Desbenoit
+- [x] [Stratégie de contenu et conception web](https://www.editions-eni.fr/livre/strategie-de-contenu-et-conception-web-les-etapes-a-suivre-pour-bien-demarrer-9782746080331) de Sébastien Desbenoit
 
 Sans rapport, je me débarrasse aussi de :
 
