@@ -19,8 +19,8 @@ Merci d'être raisonnable et de ne demander qu'un seul titre. (Les _pull request
 - [ ] [CSS 3 Flexbox](https://www.eyrolles.com/Informatique/Livre/css-3-flexbox-9782212143638/) de Raphaël Goetter
 - [ ] [CSS 3 Grid Layout](https://www.eyrolles.com/Informatique/Livre/css-3-grid-layout-9782212676839/) de Raphaël Goetter
 - [ ] [HTML 5 : une référence pour le développeur web (2e édition)](https://www.eyrolles.com/Informatique/Livre/html-5-9782212143652/) de Rodolphe Rimelé
-- [X] [Écoconception web : les 115 bonnes pratiques (3e édition)](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/) de Frédéric Bordage
-- [X] [Ergonomie web illustrée](https://www.eyrolles.com/Informatique/Livre/ergonomie-web-illustree-9782212126952/) de Amélie Boucher
+- [ ] [Écoconception web : les 115 bonnes pratiques (3e édition)](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/) de Frédéric Bordage
+- [x] [Ergonomie web illustrée](https://www.eyrolles.com/Informatique/Livre/ergonomie-web-illustree-9782212126952/) de Amélie Boucher
 - [ ] [Design tactile](https://www.eyrolles.com/Informatique/Livre/design-tactile-9782212143911/) de Josh Clark
 - [ ] [Responsive Design Patterns](https://www.eyrolles.com/Informatique/Livre/responsive-design-patterns-9782212117660/) de Ethan Marcotte
 - [ ] [CSS3 pour les web designers (2e édition)](https://www.eyrolles.com/Informatique/Livre/css3-pour-les-web-designers-9782212117653/) de Dan Cederholm
