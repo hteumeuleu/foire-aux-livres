@@ -14,7 +14,7 @@ Merci d'être raisonnable et de ne demander qu'un seul titre. (Les _pull request
 ## Les livres
 
 - [ ] [CSS maintenables avec Sass & Compass (1ère édition)](https://www.eyrolles.com/Informatique/Livre/css-maintenables-avec-sass-et-compass-9782212136401/) de Kaelig Deloumeau-Prigent
-- [ ] [CSS maintenables avec Sass & Compass (2e édition)](https://www.eyrolles.com/Informatique/Livre/css-maintenables-avec-sass-et-compass-9782212136401/) de Kaelig Deloumeau-Prigent
+- [x] [CSS maintenables avec Sass & Compass (2e édition)](https://www.eyrolles.com/Informatique/Livre/css-maintenables-avec-sass-et-compass-9782212136401/) de Kaelig Deloumeau-Prigent
 - [x] [Intégration web : les bonnes pratiques](https://www.eyrolles.com/Informatique/Livre/integration-web-les-bonnes-pratiques-9782212133707/) de Corinne Schillinger
 - [ ] [CSS 3 Flexbox](https://www.eyrolles.com/Informatique/Livre/css-3-flexbox-9782212143638/) de Raphaël Goetter
 - [x] [CSS 3 Grid Layout](https://www.eyrolles.com/Informatique/Livre/css-3-grid-layout-9782212676839/) de Raphaël Goetter
