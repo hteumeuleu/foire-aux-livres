@@ -17,7 +17,7 @@ Merci d'être raisonnable et de ne demander qu'un seul titre. (Les _pull request
 - [ ] [CSS maintenables avec Sass & Compass (2e édition)](https://www.eyrolles.com/Informatique/Livre/css-maintenables-avec-sass-et-compass-9782212136401/) de Kaelig Deloumeau-Prigent
 - [x] [Intégration web : les bonnes pratiques](https://www.eyrolles.com/Informatique/Livre/integration-web-les-bonnes-pratiques-9782212133707/) de Corinne Schillinger
 - [ ] [CSS 3 Flexbox](https://www.eyrolles.com/Informatique/Livre/css-3-flexbox-9782212143638/) de Raphaël Goetter
-- [ ] [CSS 3 Grid Layout](https://www.eyrolles.com/Informatique/Livre/css-3-grid-layout-9782212676839/) de Raphaël Goetter
+- [x] [CSS 3 Grid Layout](https://www.eyrolles.com/Informatique/Livre/css-3-grid-layout-9782212676839/) de Raphaël Goetter
 - [ ] [HTML 5 : une référence pour le développeur web (2e édition)](https://www.eyrolles.com/Informatique/Livre/html-5-9782212143652/) de Rodolphe Rimelé
 - [ ] [Écoconception web : les 115 bonnes pratiques (3e édition)](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/) de Frédéric Bordage
 - [x] [Ergonomie web illustrée](https://www.eyrolles.com/Informatique/Livre/ergonomie-web-illustree-9782212126952/) de Amélie Boucher
