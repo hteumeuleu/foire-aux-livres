@@ -18,6 +18,5 @@ Merci d'être raisonnable et de ne demander qu'un seul titre. Aussi, si vous ave
 - [ ] [Responsive Design Patterns](https://www.eyrolles.com/Informatique/Livre/responsive-design-patterns-9782212117660/) de Ethan Marcotte
 - [ ] [HTML5 pour les Web Designers](https://www.eyrolles.com/Informatique/Livre/html5-pour-les-web-designers-9782212144376/) de Jeremy Keith
 - [ ] [Stratégie de contenu et conception web](https://www.editions-eni.fr/livre/strategie-de-contenu-et-conception-web-les-etapes-a-suivre-pour-bien-demarrer-9782746080331) de Sébastien Desbenoit
-- [ ] [Emailing : développement et intégration](https://www.eyrolles.com/Informatique/Livre/emailing-developpement-et-integration-9782212678499/) par Thomas Defossez
 
 Cette liste pourra être amenée à être complétée. Je le signalerais alors sur [mon compte Twitter](https://www.twitter.com/HTeuMeuLeu).
